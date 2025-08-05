@@ -5,18 +5,18 @@ A machine learning that predicts the resale price of a used car based on key fea
 
 Dataset
 The dataset used_car_price_dataset_extended.csv contains information about various used cars, including:
-make_year
-mileage_kmpl
-engine_cc
-fuel_type
-owner_count
-brand
-transmission
-color
-service_history
-accidents_reported
-insurance_valid
-price (target variable)
+make_year,
+mileage_kmpl,
+engine_cc,
+fuel_type,
+owner_count,
+brand,
+transmission,
+color,
+service_history,
+accidents_reported,
+insurance_valid,
+price (target variable).
 
 
 ## Exploratory Data Analysis (EDA)
