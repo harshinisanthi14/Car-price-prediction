@@ -36,3 +36,7 @@ MAE (Mean Absolute Error)
 MSE (Mean Squared Error)
 RMSE (Root Mean Squared Error)
 R² Score (0.86 achieved)
+
+If you have any questions, feel free to reach out:
+
+Harshini - harshiniudayagiri@gmail.com
